@@ -1,5 +1,4 @@
 build:
-  platform: linux/amd64
   docker:
     web: Dockerfile
 release:
